@@ -1,8 +1,8 @@
 # MAT120-CalcDE
 
 Welcome to the MAT120-CalcDE repository! This repository is designed to provide a comprehensive collection of lab materials and assignments for the MAT120 course at BRAC University. MAT120, also known as Integral Calculus and Differential Equations, is a fundamental mathematics course for students pursuing computer science and engineering degrees.This repository is designed to provide comprehensive resources for students enrolled in the MAT120 course at BRAC University. Below, you will find detailed information about the course and the materials available in this repository.
- # Theory Faculty: Sakal Roy (SKY) 
-   # Lab Faculty: Sarah Zabeen
+ ## Theory Faculty: Sakal Roy (SKY) 
+   ## Lab Faculty: Sarah Zabeen
 
 
 ## Repository Structure
@@ -63,7 +63,7 @@ We appreciate any contributions that can help enhance the learning experience fo
 
 If you have any questions or suggestions regarding this repository, please feel free to open an issue or contact the repository maintainer:
 
-- Your Name
+- Zaynul Abedin Miah
 - Email: azaynul3@gmail.com
 
 Happy learning and coding!
